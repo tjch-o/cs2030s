@@ -1,6 +1,5 @@
 class Test4 {
   public static void main(String[] args) {
-
     CS2030STest i = new CS2030STest();
 
     i.expect("new DivisibleBy(5).test(4) is false", 

@@ -1,6 +1,5 @@
 class Test1 {
   public static void main(String[] args) {
-
     CS2030STest i = new CS2030STest();
 
     // Test Box of and toString

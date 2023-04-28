@@ -1,6 +1,5 @@
 class Test2 {
   public static void main(String[] args) {
-
     CS2030STest i = new CS2030STest();
 
     // Test ofNullable
