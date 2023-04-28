@@ -8,7 +8,6 @@ import java.util.Scanner;
  */
 class Lab1 {
   public static void main(String[] args) {
-
     // Create a scanner to read from standard input.
     Scanner sc = new Scanner(System.in);
 
