@@ -24,7 +24,6 @@ public class BankServiceEndEvent extends Event {
    *
    * @return An array of new events to be simulated.
    */
-
   @Override 
   public Event[] simulate() {
     // we make the counter available again
