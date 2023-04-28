@@ -50,5 +50,4 @@ class BankSimulation extends Simulation {
   public Event[] getInitialEvents() {
     return initEvents;
   }
-
 }

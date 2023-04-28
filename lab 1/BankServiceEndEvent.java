@@ -36,5 +36,4 @@ public class BankServiceEndEvent extends Event {
         this.counter.toString() + ")"; 
     return super.toString() + str;
   }
-
 }
