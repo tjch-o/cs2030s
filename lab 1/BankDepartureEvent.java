@@ -18,7 +18,6 @@ public class BankDepartureEvent extends Event {
    *
    * @return An array of new events to be simulated.
    */
-
   @Override 
   public Event[] simulate() {
     return new Event[]{};

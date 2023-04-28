@@ -24,7 +24,6 @@ public class BankArrivalEvent extends Event {
    *
    * @return An array of new events to be simulated.
    */
-
   @Override 
   public Event[] simulate() {
     Counter c = this.bank.getFirstAvailableCounter();
