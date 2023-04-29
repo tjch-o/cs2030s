@@ -19,6 +19,7 @@ class Test4 {
    */
   public static void main(String[] args) {
     CS2030STest i = new CS2030STest();
+
     i.expectReturn(
         "InfiniteList.iterate(1, x -> x + 1).isSentinel()",
         () -> InfiniteList.iterate(1, x -> x + 1).isSentinel(), false);

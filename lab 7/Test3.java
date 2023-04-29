@@ -17,7 +17,6 @@ class Test3 {
    * @param args Ignored and unused command line arguments.
    */
   public static void main(String[] args) {
-
     CS2030STest i = new CS2030STest();
 
     i.expectReturn("InfiniteList.generate(() -> 1).filter(x -> x % 2 == 0).toString()",
