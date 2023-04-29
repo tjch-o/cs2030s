@@ -4,7 +4,6 @@
  *
  * @author Choo Tze Jie (Lab Group 08H)
  */
-
 package cs2030s.fp;
 
 public interface BooleanCondition<T> {
