@@ -94,6 +94,5 @@ class Test2 {
         generateHistory, List.of(1, 1));
     i.expect(" ....causes zero evaluation of x -> x * 2",
         doublerHistory, List.of(1, 1));
-
   }
 }
